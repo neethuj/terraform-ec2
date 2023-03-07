@@ -9,8 +9,8 @@ This repo contains Terraform configuration files to create a simple EC2 instance
 - AWS account and associated credentials that allow you to create resources. You can either use "aws configure" or create environemnt variables as follows
 
 ```
-export AWS_ACCESS_KEY_ID=
-export AWS_SECRET_ACCESS_KEY=
+export AWS_ACCESS_KEY_ID=<value>
+export AWS_SECRET_ACCESS_KEY=<value>
 ```
 
 ## Steps to Execute
